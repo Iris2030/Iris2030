@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 👯 Junior React developer
+- 🌱 Currently learning Ruby
+- 📫 How to reach me: ibazhinova2@gmail.com
