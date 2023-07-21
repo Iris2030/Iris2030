@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 👯 Junior React developer
-- 🌱 Currently learning Ruby
-- 📫 How to reach me: ibazhinova2@gmail.com
+- 👯 Vue.js && Ruby on Rails developer
+- 🌱 Currently studying to achieve my Master degree in Computer Science
+- 📫 How to reach me: ibazhinova@gmail.com || ibazhinova2@gmail.com 
