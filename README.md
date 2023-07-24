@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=Iris2030&color=ff69b4)
+
 
 - 👯 Vue.js && Ruby on Rails developer
 - 🌱 Currently studying to achieve my Master degree in Computer Science
